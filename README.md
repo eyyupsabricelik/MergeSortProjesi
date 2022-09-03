@@ -31,3 +31,6 @@ Patika.dev Veri Yapıları ve Algoritmalar Dersi Ödevi
 ## 2. Big-O gösterimini yazınız.
 
 O(nlogn)
+
+
+www.patika.dev
