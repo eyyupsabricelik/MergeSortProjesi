@@ -6,7 +6,9 @@ Patika.dev Veri Yapıları ve Algoritmalar Dersi Ödevi
 
 ## 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-                 BÖLME                                
+                 BÖLME        
+ |  |  |  |  |  |  |  |  |  |  |  |  |                
+ |- |- |- |- |- |- |- |- |- |- |- |- |                
  |  |  |  |16|21|11|8 |12|22|  |  |  |
  |  |  |  |  |  |  |  |  |  |  |  |  |
  |  |  |16|21|11|  |  |8 |12|22|  |  |
@@ -17,6 +19,8 @@ Patika.dev Veri Yapıları ve Algoritmalar Dersi Ödevi
  |- |- |- |- |- |- |- |- |- |- |- |- |
               
               BİRLEŞTİRME          
+ |  |  |  |  |  |  |  |  |  |  |  |  |             
+ |- |- |- |- |- |- |- |- |- |- |- |- |             
  |16|  |21|  |11|  |  |8 |  |12|  |22|
  |  |  |  |  |  |  |  |  |  |  |  |  |
  |  |16|21|  |11|  |  |8 |  |12|22|  |
